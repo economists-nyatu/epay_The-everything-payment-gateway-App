@@ -10,5 +10,5 @@ A flutter project.
 
 
 
-PASSWROD:Nyatu2@02
+PASSWORD:Nyatu2@02
 
