@@ -10,5 +10,5 @@ A flutter project.
 
 
 
-PASSWORD for e_payeconomists-nyatu is Nyatu2@02
+PASSWORD for e_payeconomists-nyatu zip file is Nyatu2@02
 
