@@ -10,5 +10,5 @@ A flutter project.
 
 
 
-PASSWORD e_payeconomists-nyatu..7z dm me to get passwd.
+PASSWORD e_payeconomists-nyatu is Nyatu2@02
 
